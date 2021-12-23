@@ -101,9 +101,8 @@ body {
   }
 }
 .logo__link img {
-  width: 98px;
-  height: 55px;
-}
+  max-width: 98px;
+  }
 
 @media (min-width: 768px) {
   ._anim-items {
